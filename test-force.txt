@@ -1,1 +1,1 @@
-zmiany lokalne 3
+test-force zmiany lokalne
